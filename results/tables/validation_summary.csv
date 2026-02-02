@@ -1,0 +1,4 @@
+Parámetro,Obtenido,Esperado,Status
+Tamaño Genoma (bp),"4,641,652","4,641,652",✅ VÁLIDO
+Total Genes,4318,~4300,✅ VÁLIDO
+Ratio ATG/CDS,17.67x,15-20x,✅ DENTRO DEL RANGO

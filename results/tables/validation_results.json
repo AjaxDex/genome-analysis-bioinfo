@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "fecha_validacion": "2026-02-02T02:24:18.584094",
+    "genoma_id": "U00096.3"
+  },
+  "validaciones": {
+    "tamano_genoma": {
+      "obtenido": 4641652,
+      "esperado": 4641652,
+      "diferencia": 0,
+      "desviacion_pct": 0.0,
+      "en_rango": true,
+      "tolerancia": 1000,
+      "status": "\u2705 V\u00c1LIDO"
+    },
+    "total_genes": {
+      "obtenido": 4318,
+      "esperado": 4300,
+      "diferencia": 18,
+      "desviacion_pct": 0.42,
+      "en_rango": true,
+      "tolerancia": 200,
+      "status": "\u2705 V\u00c1LIDO"
+    },
+    "ratio_atg_cds": {
+      "obtenido": 17.67,
+      "rango_min": 15,
+      "rango_max": 20,
+      "en_rango": true,
+      "status": "\u2705 DENTRO DEL RANGO",
+      "interpretacion": "Mayor\u00eda de ATG no son inicios de genes funcionales"
+    },
+    "stop_codons": {
+      "TAA": {
+        "obtenido": 63.97,
+        "rango_min": 55,
+        "rango_max": 70,
+        "en_rango": true,
+        "status": "\u2705 DENTRO DEL RANGO",
+        "interpretacion": "Cod\u00f3n de terminaci\u00f3n preferido en E. coli"
+      },
+      "TAG": {
+        "obtenido": 7.09,
+        "rango_min": 5,
+        "rango_max": 15,
+        "en_rango": true,
+        "status": "\u2705 DENTRO DEL RANGO",
+        "interpretacion": "Cod\u00f3n de terminaci\u00f3n menos usado"
+      },
+      "TGA": {
+        "obtenido": 28.94,
+        "rango_min": 25,
+        "rango_max": 35,
+        "en_rango": true,
+        "status": "\u2705 DENTRO DEL RANGO",
+        "interpretacion": "Cod\u00f3n de terminaci\u00f3n intermedio"
+      }
+    }
+  },
+  "preferencias_evolutivas": [
+    {
+      "stop_codon": "TAA",
+      "cds_pct": 63.97,
+      "genoma_pct": 38.33,
+      "enriquecimiento": 1.6689277328463346,
+      "preferencia": "\u2b50 FUERTEMENTE PREFERIDO"
+    },
+    {
+      "stop_codon": "TAG",
+      "cds_pct": 7.09,
+      "genoma_pct": 15.17,
+      "enriquecimiento": 0.4673698088332235,
+      "preferencia": "\u274c EVITADO"
+    },
+    {
+      "stop_codon": "TGA",
+      "cds_pct": 28.94,
+      "genoma_pct": 46.5,
+      "enriquecimiento": 0.6223655913978495,
+      "preferencia": "\u274c EVITADO"
+    }
+  ]
+}

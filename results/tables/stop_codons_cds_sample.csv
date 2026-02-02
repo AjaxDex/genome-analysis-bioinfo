@@ -1,0 +1,101 @@
+producto,inicio,fin,stop_codon,es_stop_valido
+thr operon leader peptide,189,255,TGA,True
+fused aspartate kinase/homoserine dehydrogenase 1,336,2799,TGA,True
+homoserine kinase,2800,3733,TAA,True
+threonine synthase,3733,5020,TAA,True
+DUF2502 domain-containing protein YaaX,5233,5530,TAA,True
+DNA binding and peroxide stress response protein YaaA,5682,6459,TAA,True
+putative transporter YaaJ,6528,7959,TAA,True
+transaldolase B,8237,9191,TAA,True
+molybdopterin adenylyltransferase,9305,9893,TAA,True
+acetate/succinate:H(+) symporter,9927,10494,TAA,True
+putative enzyme-specific chaperone YaaW,10642,11356,TGA,True
+uncharacterized protein MbiA,10829,11315,TGA,True
+DUF2541 domain-containing protein YaaI,11381,11786,TAA,True
+chaperone protein DnaK,12162,14079,TAA,True
+chaperone protein DnaJ,14167,15298,TAA,True
+IS186/IS421 family transposase,15444,16557,TAA,True
+regulatory protein MokC,16750,16960,TAA,True
+small toxic polypeptide HokC,16750,16903,TAA,True
+Na(+):H(+) antiporter NhaA,17488,18655,TGA,True
+DNA-binding transcriptional activator NhaR,18714,19620,TAA,True
+IS1 family protein InsB,19810,20314,TAA,True
+IS1 family protein InsA,20232,20508,TAA,True
+30S ribosomal subunit protein S20,20814,21078,TAA,True
+DUF2575 domain-containing protein YaaY,21180,21399,TGA,True
+bifunctional riboflavin kinase/FMN adenylyltransferase,21406,22348,TAA,True
+isoleucine--tRNA ligase,22390,25207,TGA,True
+lipoprotein signal peptidase,25206,25701,TAA,True
+peptidyl-prolyl cis-trans isomerase FkpB,25825,26275,TAA,True
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase,26276,27227,TAA,True
+ribonucleoside hydrolase RihC,27292,28207,TAA,True
+4-hydroxy-tetrahydrodipicolinate reductase,28373,29195,TAA,True
+carbamoyl-phosphate synthetase small subunit,29650,30799,TAA,True
+carbamoyl-phosphate synthetase large subunit,30816,34038,TAA,True
+DNA-binding transcriptional activator CaiF,34299,34695,TAA,True
+putative transferase CaiE,34780,35371,TGA,True
+crotonobetainyl-CoA hydratase,35376,36162,TAA,True
+carnitine--CoA ligase,36270,37824,TAA,True
+gamma-butyrobetainyl-CoA:carnitine CoA transferase,37897,39115,TAA,True
+crotonobetainyl-CoA reductase,39243,40386,TAA,True
+L-carnitine:gamma-butyrobetaine antiporter,40416,41931,TAA,True
+putative electron transfer flavoprotein FixA,42402,43173,TAA,True
+putative electron transfer flavoprotein FixB,43187,44129,TGA,True
+putative oxidoreductase FixC,44179,45466,TGA,True
+putative ferredoxin FixX,45462,45750,TGA,True
+putative transporter YaaU,45806,47138,TAA,True
+regulator of KefC-mediated potassium transport and quinone oxidoreductase,47245,47776,TAG,True
+K(+) : H(+) antiporter KefC,47768,49631,TAA,True
+dihydrofolate reductase,49822,50302,TAA,True
+diadenosine tetraphosphatase,50379,51222,TAA,True
+DUF525 domain-containing protein ApaG,51228,51606,TAA,True
+16S rRNA (A(1518)/A(1519))-N(6)-dimethyltransferase,51608,52430,TAA,True
+4-hydroxythreonine-4-phosphate dehydrogenase,52426,53416,TGA,True
+chaperone SurA,53415,54702,TAA,True
+lipopolysaccharide assembly protein LptD,54754,57109,TGA,True
+co-chaperone protein DjlA,57363,58179,TGA,True
+putative uncharacterized protein YabP,58473,59124,TGA,True
+protein YabQ,59120,59279,TAA,True
+23S rRNA pseudouridine(746) and tRNA pseudouridine(32) synthase,59686,60346,TAA,True
+RNA polymerase-binding ATPase and RNAP recycling factor,60357,63264,TAA,True
+DNA polymerase II,63428,65780,TGA,True
+L-ribulose-5-phosphate 4-epimerase AraD,65854,66550,TAA,True
+L-arabinose isomerase,66834,68337,TAA,True
+ribulokinase,68347,70048,TAA,True
+DNA-binding transcriptional dual regulator AraC,70386,71265,TAA,True
+DedA family protein YabI,71350,72115,TAG,True
+thiamine ABC transporter ATP binding subunit,72228,72927,TAG,True
+thiamine ABC transporter membrane subunit,72910,74521,TGA,True
+thiamine ABC transporter periplasmic binding protein,74496,75480,TAA,True
+DNA-binding transcriptional dual regulator SgrR,75643,77299,TGA,True
+PtsG glucose transporter inhibitor,77387,77519,TGA,True
+sugar exporter SetA,77620,78799,TGA,True
+3-isopropylmalate dehydratase subunit LeuD,78847,79453,TAA,True
+3-isopropylmalate dehydratase subunit LeuC,79463,80864,TAA,True
+3-isopropylmalate dehydrogenase,80866,81958,TAA,True
+2-isopropylmalate synthase,81957,83529,TGA,True
+leu operon leader peptide,83621,83708,TAA,True
+DNA-binding transcriptional dual regulator LeuO,84367,85312,TAA,True
+protein YabR,85466,85511,TGA,True
+"acetolactate synthase/acetohydroxybutanoate synthase, catalytic subunit",85629,87354,TGA,True
+"acetolactate synthase/acetohydroxybutanoate synthase, regulatory subunit",87356,87848,TGA,True
+DNA-binding transcriptional regulator Cra,88027,89032,TAA,True
+DNA-binding transcriptional repressor MraZ,89633,90092,TAA,True
+16S rRNA m(4)C1402 methyltransferase,90093,91035,TGA,True
+cell division protein FtsL,91031,91397,TAA,True
+peptidoglycan DD-transpeptidase FtsI,91412,93179,TAA,True
+"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2, 6-diaminopimelate ligase",93165,94653,TGA,True
+UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase,94649,96008,TAG,True
+phospho-N-acetylmuramoyl-pentapeptide- transferase,96001,97084,TAA,True
+UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,97086,98403,TGA,True
+peptidoglycan glycosyltransferase FtsW,98402,99647,TGA,True
+N-acetylglucosaminyl transferase,99643,100711,TAA,True
+UDP-N-acetylmuramate--L-alanine ligase,100764,102240,TGA,True
+D-alanine--D-alanine ligase B,102232,103153,TAA,True
+cell division protein FtsQ,103154,103985,TGA,True
+cell division protein FtsA,103981,105244,TAA,True
+cell division protein FtsZ,105304,106456,TAA,True
+UDP-3-O-acyl-N-acetylglucosamine deacetylase,106556,107474,TAA,True
+SecA translation regulator,107704,108217,TAA,True
+protein translocation ATPase,108278,110984,TAA,True
+8-oxo-dGTP diphosphatase,111043,111433,TAG,True

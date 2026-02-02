@@ -1,0 +1,88 @@
+{
+  "genoma": {
+    "id": "U00096.3",
+    "descripcion": "Escherichia coli str. K-12 substr. MG1655, complete genome",
+    "tamano_bp": 4641652,
+    "contenido_gc_pct": 50.79,
+    "composicion_nucleotidos": {
+      "A": {
+        "total": 1142742,
+        "porcentaje": 24.62
+      },
+      "T": {
+        "total": 1141382,
+        "porcentaje": 24.59
+      },
+      "G": {
+        "total": 1177437,
+        "porcentaje": 25.37
+      },
+      "C": {
+        "total": 1180091,
+        "porcentaje": 25.42
+      }
+    }
+  },
+  "genes": {
+    "total": 4651,
+    "estadisticas_tamanos": {
+      "total": 4651,
+      "media": 898.5691249193721,
+      "mediana": 789.0,
+      "desviacion_std": 665.49628877179,
+      "minimo": 14,
+      "maximo": 8622,
+      "percentil_25": 426.0,
+      "percentil_75": 1203.0,
+      "rango_intercuartil": 777.0
+    },
+    "distribucion_strands": {
+      "strand_plus": 2299,
+      "strand_minus": 2352,
+      "porcentaje_plus": 49.43023005805203,
+      "porcentaje_minus": 50.569769941947975
+    }
+  },
+  "cds": {
+    "total": 4318,
+    "estadisticas_tamanos": {
+      "total": 4318,
+      "media": 937.6449745252431,
+      "mediana": 825.0,
+      "desviacion_std": 649.0079597414574,
+      "minimo": 27,
+      "maximo": 8622,
+      "percentil_25": 486.0,
+      "percentil_75": 1227.0,
+      "rango_intercuartil": 741.0
+    },
+    "distribucion_strands": {
+      "strand_plus": 2103,
+      "strand_minus": 2215,
+      "porcentaje_plus": 48.70310328855952,
+      "porcentaje_minus": 51.29689671144049
+    },
+    "contenido_gc": {
+      "media": 50.79,
+      "mediana": 51.98,
+      "desviacion_std": 5.26,
+      "minimo": 13.64,
+      "maximo": 66.72
+    }
+  },
+  "densidad_genica": {
+    "genes_por_mb": 930.27,
+    "genes_por_kb": 0.9303,
+    "bp_por_gen": 1074.95
+  },
+  "regiones": {
+    "codificantes": {
+      "bp": 4048751,
+      "porcentaje": 87.23
+    },
+    "no_codificantes": {
+      "bp": 592901,
+      "porcentaje": 12.77
+    }
+  }
+}

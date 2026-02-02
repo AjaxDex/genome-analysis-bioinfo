@@ -1,0 +1,136 @@
+{
+  "genoma": {
+    "id": "U00096.3",
+    "descripcion": "Escherichia coli str. K-12 substr. MG1655, complete genome",
+    "tamano_bp": 4641652
+  },
+  "analisis_stop_codons": {
+    "total_stop_codons": 179644,
+    "densidad_total_por_kb": 38.7,
+    "por_tipo": {
+      "TAA": {
+        "total": 68858,
+        "densidad_por_kb": 14.83,
+        "proporcion_pct": 38.33,
+        "primeras_10_posiciones": [
+          45,
+          95,
+          100,
+          124,
+          133,
+          163,
+          239,
+          320,
+          328,
+          637
+        ],
+        "ultimas_10_posiciones": [
+          4640884,
+          4640887,
+          4640948,
+          4641108,
+          4641114,
+          4641300,
+          4641413,
+          4641521,
+          4641625,
+          4641640
+        ]
+      },
+      "TAG": {
+        "total": 27254,
+        "densidad_por_kb": 5.87,
+        "proporcion_pct": 15.17,
+        "primeras_10_posiciones": [
+          63,
+          116,
+          142,
+          148,
+          200,
+          500,
+          659,
+          683,
+          748,
+          1540
+        ],
+        "ultimas_10_posiciones": [
+          4640793,
+          4640809,
+          4640814,
+          4641024,
+          4641045,
+          4641233,
+          4641311,
+          4641404,
+          4641560,
+          4641637
+        ]
+      },
+      "TGA": {
+        "total": 83532,
+        "densidad_por_kb": 18.0,
+        "proporcion_pct": 46.5,
+        "primeras_10_posiciones": [
+          12,
+          60,
+          73,
+          91,
+          111,
+          190,
+          252,
+          288,
+          346,
+          484
+        ],
+        "ultimas_10_posiciones": [
+          4641254,
+          4641296,
+          4641321,
+          4641383,
+          4641435,
+          4641485,
+          4641494,
+          4641516,
+          4641600,
+          4641606
+        ]
+      }
+    }
+  },
+  "analisis_cds": {
+    "total_cds": 4318,
+    "stop_codons_por_tipo": {
+      "TAA": {
+        "total": 2761,
+        "proporcion_pct": 63.97
+      },
+      "TAG": {
+        "total": 306,
+        "proporcion_pct": 7.09
+      },
+      "TGA": {
+        "total": 1249,
+        "proporcion_pct": 28.94
+      }
+    }
+  },
+  "comparacion": {
+    "genoma_vs_cds": {
+      "TAA": {
+        "genoma_pct": 38.33,
+        "cds_pct": 63.97,
+        "diferencia": -25.64
+      },
+      "TAG": {
+        "genoma_pct": 15.17,
+        "cds_pct": 7.09,
+        "diferencia": 8.08
+      },
+      "TGA": {
+        "genoma_pct": 46.5,
+        "cds_pct": 28.94,
+        "diferencia": 17.56
+      }
+    }
+  }
+}

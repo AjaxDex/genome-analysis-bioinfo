@@ -1,0 +1,6 @@
+Parámetro,Obtenido,Esperado,Status
+Contenido GC,50.79,50.8,✅ VÁLIDO
+Tamaño Genoma,4641652.0,4641652,✅ VÁLIDO
+Porcentaje Codificante,87.23,85-90,✅ DENTRO DEL RANGO
+Densidad Génica,930.27,930,✅ VÁLIDO
+Tamaño Medio Gen,937.64,800-1100,✅ DENTRO DEL RANGO

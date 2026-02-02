@@ -1,0 +1,312 @@
+{
+  "genoma_id": "U00096.3",
+  "total_cds": 4318,
+  "estadisticas_nucleotidos": {
+    "total": 4318,
+    "media": 937.6449745252431,
+    "mediana": 825.0,
+    "moda": 981.0,
+    "desviacion_std": 649.0079597414574,
+    "varianza": 421211.3318077692,
+    "minimo": 27,
+    "maximo": 8622,
+    "rango": 8595,
+    "percentil_5": 186.0,
+    "percentil_10": 272.10000000000014,
+    "percentil_25": 486.0,
+    "percentil_50": 825.0,
+    "percentil_75": 1227.0,
+    "percentil_90": 1668.9000000000005,
+    "percentil_95": 2148.0,
+    "rango_intercuartil": 741.0,
+    "coef_variacion": 69.21681205299149
+  },
+  "estadisticas_aminoacidos": {
+    "total": 4318,
+    "media": 312.54608615099585,
+    "mediana": 275.0,
+    "moda": 327.0,
+    "desviacion_std": 216.33242689777086,
+    "varianza": 46799.71892747938,
+    "minimo": 9,
+    "maximo": 2874,
+    "rango": 2865,
+    "percentil_5": 62.0,
+    "percentil_10": 90.70000000000005,
+    "percentil_25": 162.0,
+    "percentil_50": 275.0,
+    "percentil_75": 409.0,
+    "percentil_90": 556.3000000000002,
+    "percentil_95": 716.0,
+    "rango_intercuartil": 247.0,
+    "coef_variacion": 69.21616890548977
+  },
+  "categorias_tamano": {
+    "muy_pequenos": {
+      "total": 521,
+      "porcentaje": 12.07,
+      "rango": "< 300 bp"
+    },
+    "pequenos": {
+      "total": 905,
+      "porcentaje": 20.96,
+      "rango": "300-600 bp"
+    },
+    "medianos": {
+      "total": 1751,
+      "porcentaje": 40.55,
+      "rango": "600-1200 bp"
+    },
+    "grandes": {
+      "total": 999,
+      "porcentaje": 23.14,
+      "rango": "1200-2400 bp"
+    },
+    "muy_grandes": {
+      "total": 142,
+      "porcentaje": 3.29,
+      "rango": "> 2400 bp"
+    }
+  },
+  "outliers": {
+    "limite_inferior": -625.5,
+    "limite_superior": 2338.5,
+    "iqr": 741.0,
+    "num_outliers_bajos": 0,
+    "num_outliers_altos": 154,
+    "total_outliers": 154,
+    "porcentaje_outliers": 3.566465956461325
+  },
+  "multiplos_de_3": {
+    "multiplos_de_3": 4300,
+    "no_multiplos_de_3": 18,
+    "porcentaje_multiplos_3": 99.58314034275128,
+    "interpretacion": "Todos los CDS deben ser m\u00faltiplos de 3 (codones completos)"
+  },
+  "genes_extremos": {
+    "mas_pequenos": [
+      {
+        "locus_tag": "b4737",
+        "gene": "ymdG",
+        "producto": "protein YmdG",
+        "inicio": 1079119,
+        "fin": 1079146,
+        "longitud_nt": 27,
+        "longitud_aa": 9,
+        "strand": "+",
+        "protein_id": "AYC08190.2"
+      },
+      {
+        "locus_tag": "b4794",
+        "gene": "baxL",
+        "producto": "putative translational regulatory protein BaxL",
+        "inicio": 3737176,
+        "fin": 3737203,
+        "longitud_nt": 27,
+        "longitud_aa": 9,
+        "strand": "-",
+        "protein_id": "QNV50547.1"
+      },
+      {
+        "locus_tag": "b4781",
+        "gene": "evgL",
+        "producto": "protein EvgL",
+        "inicio": 2483728,
+        "fin": 2483758,
+        "longitud_nt": 30,
+        "longitud_aa": 10,
+        "strand": "+",
+        "protein_id": "QNV50534.1"
+      },
+      {
+        "locus_tag": "b4789",
+        "gene": "yhgP",
+        "producto": "protein YhgP",
+        "inicio": 3573678,
+        "fin": 3573708,
+        "longitud_nt": 30,
+        "longitud_aa": 10,
+        "strand": "-",
+        "protein_id": "QNV50542.1"
+      },
+      {
+        "locus_tag": "b4815",
+        "gene": "ykfO",
+        "producto": "protein YkfO",
+        "inicio": 234287,
+        "fin": 234320,
+        "longitud_nt": 33,
+        "longitud_aa": 11,
+        "strand": "+",
+        "protein_id": "UMR55111.1"
+      },
+      {
+        "locus_tag": "b4768",
+        "gene": "ybgV",
+        "producto": "protein YbgV",
+        "inicio": 754657,
+        "fin": 754690,
+        "longitud_nt": 33,
+        "longitud_aa": 11,
+        "strand": "-",
+        "protein_id": "QNV50521.1"
+      },
+      {
+        "locus_tag": "b4779",
+        "gene": "yoaM",
+        "producto": "protein YoaM",
+        "inicio": 2347349,
+        "fin": 2347385,
+        "longitud_nt": 36,
+        "longitud_aa": 12,
+        "strand": "-",
+        "protein_id": "QNV50532.1"
+      },
+      {
+        "locus_tag": "b4823",
+        "gene": "ytiE",
+        "producto": "protein YtiE",
+        "inicio": 4568691,
+        "fin": 4568727,
+        "longitud_nt": 36,
+        "longitud_aa": 12,
+        "strand": "-",
+        "protein_id": "UMR55120.1"
+      },
+      {
+        "locus_tag": "b4746",
+        "gene": "yddY",
+        "producto": "protein YddY",
+        "inicio": 1567177,
+        "fin": 1567219,
+        "longitud_nt": 42,
+        "longitud_aa": 14,
+        "strand": "-",
+        "protein_id": "AYC08211.1"
+      },
+      {
+        "locus_tag": "b4782",
+        "gene": "pssL",
+        "producto": "protein PssL",
+        "inicio": 2722701,
+        "fin": 2722743,
+        "longitud_nt": 42,
+        "longitud_aa": 14,
+        "strand": "+",
+        "protein_id": "QNV50535.1"
+      }
+    ],
+    "mas_grandes": [
+      {
+        "locus_tag": "b3482",
+        "gene": "rhsB",
+        "producto": "rhs element protein RhsB",
+        "inicio": 3619191,
+        "fin": 3623427,
+        "longitud_nt": 4236,
+        "longitud_aa": 1412,
+        "strand": "+",
+        "protein_id": "AAT48186.1"
+      },
+      {
+        "locus_tag": "b0497",
+        "gene": "rhsD",
+        "producto": "protein RhsD",
+        "inicio": 523260,
+        "fin": 527541,
+        "longitud_nt": 4281,
+        "longitud_aa": 1427,
+        "strand": "+",
+        "protein_id": "AAC73599.1"
+      },
+      {
+        "locus_tag": "b0924",
+        "gene": "mukB",
+        "producto": "chromosome partitioning protein MukB",
+        "inicio": 976325,
+        "fin": 980786,
+        "longitud_nt": 4461,
+        "longitud_aa": 1487,
+        "strand": "+",
+        "protein_id": "AAC74010.1"
+      },
+      {
+        "locus_tag": "b3212",
+        "gene": "gltB",
+        "producto": "glutamate synthase subunit GltB",
+        "inicio": 3354724,
+        "fin": 3359185,
+        "longitud_nt": 4461,
+        "longitud_aa": 1487,
+        "strand": "+",
+        "protein_id": "AAC76244.2"
+      },
+      {
+        "locus_tag": "b4466",
+        "gene": "yghJ",
+        "producto": "putative mayloidogenic protein",
+        "inicio": 3114549,
+        "fin": 3119112,
+        "longitud_nt": 4563,
+        "longitud_aa": 1521,
+        "strand": "-",
+        "protein_id": "AAT48156.1"
+      },
+      {
+        "locus_tag": "b2647",
+        "gene": "ypjA",
+        "producto": "adhesin-like autotransporter YpjA",
+        "inicio": 2778145,
+        "fin": 2782726,
+        "longitud_nt": 4581,
+        "longitud_aa": 1527,
+        "strand": "-",
+        "protein_id": "AAC75695.2"
+      },
+      {
+        "locus_tag": "b1653",
+        "gene": "lhr",
+        "producto": "ATP-dependent helicase Lhr",
+        "inicio": 1729086,
+        "fin": 1733703,
+        "longitud_nt": 4617,
+        "longitud_aa": 1539,
+        "strand": "+",
+        "protein_id": "AAC74725.1"
+      },
+      {
+        "locus_tag": "b2520",
+        "gene": "yfhM",
+        "producto": "alpha2-macroglobulin",
+        "inicio": 2647325,
+        "fin": 2652287,
+        "longitud_nt": 4962,
+        "longitud_aa": 1654,
+        "strand": "-",
+        "protein_id": "AAC75573.1"
+      },
+      {
+        "locus_tag": "b1978",
+        "gene": "yeeJ",
+        "producto": "inverse autotransporter adhesin",
+        "inicio": 2044994,
+        "fin": 2052014,
+        "longitud_nt": 7020,
+        "longitud_aa": 2340,
+        "strand": "+",
+        "protein_id": "AAC75042.5"
+      },
+      {
+        "locus_tag": "b4492",
+        "gene": "ydbA",
+        "producto": "putative outer membrane protein, N-terminal fragment",
+        "inicio": 1465391,
+        "fin": 1474013,
+        "longitud_nt": 8622,
+        "longitud_aa": 2874,
+        "strand": "+",
+        "protein_id": "NA"
+      }
+    ]
+  }
+}

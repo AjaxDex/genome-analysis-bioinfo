@@ -1,0 +1,43 @@
+{
+  "genoma": {
+    "id": "U00096.3",
+    "descripcion": "Escherichia coli str. K-12 substr. MG1655, complete genome",
+    "tamano_bp": 4641652
+  },
+  "analisis_atg": {
+    "total_atg": 76282,
+    "densidad_por_kb": 16.43,
+    "primeras_10_posiciones": [
+      29,
+      189,
+      336,
+      373,
+      415,
+      483,
+      511,
+      532,
+      643,
+      652
+    ],
+    "ultimas_10_posiciones": [
+      4641249,
+      4641253,
+      4641260,
+      4641343,
+      4641385,
+      4641437,
+      4641484,
+      4641515,
+      4641580,
+      4641599
+    ]
+  },
+  "genes_anotados": {
+    "total_genes": 4651,
+    "total_cds": 4318
+  },
+  "comparacion": {
+    "ratio_atg_vs_cds": 17.67,
+    "atg_no_codificantes_estimados": 71964
+  }
+}

@@ -1,0 +1,21 @@
+locus_tag,gene,producto,inicio,fin,longitud_nt,longitud_aa,strand,protein_id,tipo
+b4737,ymdG,protein YmdG,1079119,1079146,27,9,+,AYC08190.2,Más pequeño
+b4794,baxL,putative translational regulatory protein BaxL,3737176,3737203,27,9,-,QNV50547.1,Más pequeño
+b4781,evgL,protein EvgL,2483728,2483758,30,10,+,QNV50534.1,Más pequeño
+b4789,yhgP,protein YhgP,3573678,3573708,30,10,-,QNV50542.1,Más pequeño
+b4815,ykfO,protein YkfO,234287,234320,33,11,+,UMR55111.1,Más pequeño
+b4768,ybgV,protein YbgV,754657,754690,33,11,-,QNV50521.1,Más pequeño
+b4779,yoaM,protein YoaM,2347349,2347385,36,12,-,QNV50532.1,Más pequeño
+b4823,ytiE,protein YtiE,4568691,4568727,36,12,-,UMR55120.1,Más pequeño
+b4746,yddY,protein YddY,1567177,1567219,42,14,-,AYC08211.1,Más pequeño
+b4782,pssL,protein PssL,2722701,2722743,42,14,+,QNV50535.1,Más pequeño
+b3482,rhsB,rhs element protein RhsB,3619191,3623427,4236,1412,+,AAT48186.1,Más grande
+b0497,rhsD,protein RhsD,523260,527541,4281,1427,+,AAC73599.1,Más grande
+b0924,mukB,chromosome partitioning protein MukB,976325,980786,4461,1487,+,AAC74010.1,Más grande
+b3212,gltB,glutamate synthase subunit GltB,3354724,3359185,4461,1487,+,AAC76244.2,Más grande
+b4466,yghJ,putative mayloidogenic protein,3114549,3119112,4563,1521,-,AAT48156.1,Más grande
+b2647,ypjA,adhesin-like autotransporter YpjA,2778145,2782726,4581,1527,-,AAC75695.2,Más grande
+b1653,lhr,ATP-dependent helicase Lhr,1729086,1733703,4617,1539,+,AAC74725.1,Más grande
+b2520,yfhM,alpha2-macroglobulin,2647325,2652287,4962,1654,-,AAC75573.1,Más grande
+b1978,yeeJ,inverse autotransporter adhesin,2044994,2052014,7020,2340,+,AAC75042.5,Más grande
+b4492,ydbA,"putative outer membrane protein, N-terminal fragment",1465391,1474013,8622,2874,+,NA,Más grande

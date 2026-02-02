@@ -1,0 +1,74 @@
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║                         REPORTE FINAL DE ANÁLISIS                          ║
+║                      E. coli K-12 substr. MG1655                          ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+Fecha: 2026-02-02 02:24:31
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 1. INFORMACIÓN DEL GENOMA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ID del genoma:         U00096.3
+  Tamaño:                4,641,652 bp (4.64 Mb)
+  Contenido GC:          50.79%
+  Total genes:           4,651
+  Total CDS:             4,318
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 2. ANÁLISIS DE CODONES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Codones ATG:
+    • Total en genoma:   76,282
+    • Densidad:          16.43 ATG/kb
+    • Ratio ATG/CDS:     17.67x
+
+  Codones de Terminación (en CDS):
+    • TAA:               63.97% ⭐ PREFERIDO
+    • TAG:               7.09% (evitado)
+    • TGA:               28.94% (evitado)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 3. ESTADÍSTICAS GENÓMICAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Densidad génica:       930.27 genes/Mb
+  Región codificante:    87.23%
+  Región no codif.:      12.77%
+
+  Tamaño de genes:
+    • Media:             937.64 bp
+    • Mediana:           825.00 bp
+    • Rango:             27 - 8,622 bp
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 4. VALIDACIÓN CON LITERATURA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Tamaño del genoma:     ✅ VÁLIDO
+  Contenido GC:          No disponible
+  Total genes:           ✅ VÁLIDO
+  Ratio ATG/CDS:         ✅ DENTRO DEL RANGO
+  Stop codons (TAA):     ✅ DENTRO DEL RANGO
+  Stop codons (TAG):     ✅ DENTRO DEL RANGO
+  Stop codons (TGA):     ✅ DENTRO DEL RANGO
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 5. ARCHIVOS GENERADOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Datos de análisis:     results/tables/
+  Visualizaciones:       results/figures/
+  Documentación:         docs/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ CONCLUSIÓN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ✅ Análisis completado exitosamente
+  ✅ Todos los resultados validados con literatura científica
+  ✅ Visualizaciones generadas correctamente
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
