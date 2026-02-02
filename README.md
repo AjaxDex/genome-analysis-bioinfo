@@ -110,7 +110,7 @@ bioinfo/
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/ecoli-genome-analysis.git
+git clone https://github.com/AjaxDex/genome-analysis-bioinfo.git
 cd ecoli-genome-analysis
 ```
 
